@@ -1,4 +1,4 @@
-[
+"quiz": [
     {
         "spørsmål": "Hva er den vanligste fargemodellen for skjermgrafikk?",
         "svar": "RGB"
@@ -10,7 +10,7 @@
         "Hallo",
         "Hade"
       ],
-      "svar": "Himalaya"
+      "svar": "Hallo"
     },
     {
       "spørsmål": "Hva er hovedstaden i Frankrike?",
